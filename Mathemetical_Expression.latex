@@ -85,8 +85,10 @@ $2.|x|=
 \begin{cases}
  x ,&\text{if } x\geq 10\\
 -x, &\text{if } x \leq 5
-\end{cases}$
-
+\end{cases}$\\
+$3.R^*=argmin\underset{RR*=I,det(R)=1}{\sum_1^{n}w_i\,|| RX_i-Y_i\,||} \, \begin{matrix}
+    1 \\2
+\end{matrix}$
 \section{Calculus::}
 $$\sum_{n=0}^{20} x^2=200$$
 $$\sum_{n=0}^{\infty} x^3+5=2$$
